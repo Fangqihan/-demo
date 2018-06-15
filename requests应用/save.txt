@@ -1,0 +1,136 @@
+
+    'positionName': Python工程师,
+    "workYear":1-3年,
+    'link':https://www.lagou.com/jobs/4022435.html,
+    "education":本科,
+    "companyFullName":杭州云脑科技有限公司,
+    "companySize":15-50人,
+    "positionLables":['算法', '机器学习'],
+    
+    
+    'positionName': Python开发工程师,
+    "workYear":1-3年,
+    'link':https://www.lagou.com/jobs/4238626.html,
+    "education":本科,
+    "companyFullName":信达悦和资产管理（北京）有限公司,
+    "companySize":50-150人,
+    "positionLables":['高级', '中级', '后端开发', '架构师', '全栈'],
+    
+    
+    'positionName': Python工程师,
+    "workYear":1-3年,
+    'link':https://www.lagou.com/jobs/4226259.html,
+    "education":硕士,
+    "companyFullName":北京云游九州空间科技有限公司,
+    "companySize":15-50人,
+    "positionLables":['地图', '算法', 'matlab', '地理信息系统'],
+    
+    
+    'positionName': Python工程师,
+    "workYear":1-3年,
+    'link':https://www.lagou.com/jobs/4691690.html,
+    "education":本科,
+    "companyFullName":北京华夏亨元科技有限公司,
+    "companySize":50-150人,
+    "positionLables":['Java', 'Ruby'],
+    
+    
+    'positionName': Python开发工程师,
+    "workYear":1-3年,
+    'link':https://www.lagou.com/jobs/1828369.html,
+    "education":本科,
+    "companyFullName":华风象辑（北京）气象科技有限公司,
+    "companySize":50-150人,
+    "positionLables":['Java'],
+    
+    
+    'positionName': Python开发工程师,
+    "workYear":1-3年,
+    'link':https://www.lagou.com/jobs/3521114.html,
+    "education":本科,
+    "companyFullName":新浪网技术（中国）有限公司,
+    "companySize":2000人以上,
+    "positionLables":['Java', '架构'],
+    
+    
+    'positionName': python开发工程师,
+    "workYear":1-3年,
+    'link':https://www.lagou.com/jobs/4285560.html,
+    "education":本科,
+    "companyFullName":杭州东信北邮信息技术有限公司,
+    "companySize":500-2000人,
+    "positionLables":['旅游', '媒体', '软件开发', 'Java', 'MySQL'],
+    
+    
+    'positionName': Python研发工程师,
+    "workYear":1-3年,
+    'link':https://www.lagou.com/jobs/3828594.html,
+    "education":本科,
+    "companyFullName":北京汇行科技有限公司,
+    "companySize":150-500人,
+    "positionLables":['爬虫', '大数据', '算法'],
+    
+    
+    'positionName': python攻城狮,
+    "workYear":1-3年,
+    'link':https://www.lagou.com/jobs/3217039.html,
+    "education":本科,
+    "companyFullName":北京罗威亚科技有限公司,
+    "companySize":15-50人,
+    "positionLables":['云计算', '中级', '初级', 'MySQL', 'golang'],
+    
+    
+    'positionName': 高级Python开发工程师,
+    "workYear":1-3年,
+    'link':https://www.lagou.com/jobs/3658363.html,
+    "education":本科,
+    "companyFullName":北京国双科技有限公司,
+    "companySize":500-2000人,
+    "positionLables":['linux'],
+    
+    
+    'positionName': Python,
+    "workYear":1-3年,
+    'link':https://www.lagou.com/jobs/2191236.html,
+    "education":本科,
+    "companyFullName":北京品科技术有限公司,
+    "companySize":50-150人,
+    "positionLables":[],
+    
+    
+    'positionName': python开发工程师,
+    "workYear":1-3年,
+    'link':https://www.lagou.com/jobs/3874194.html,
+    "education":本科,
+    "companyFullName":北京天融信网络安全,
+    "companySize":2000人以上,
+    "positionLables":['信息安全', 'Java', 'MySQL'],
+    
+    
+    'positionName': Python/Django 开发工程师,
+    "workYear":1-3年,
+    'link':https://www.lagou.com/jobs/1282115.html,
+    "education":本科,
+    "companyFullName":北京海文互知网络技术有限公司,
+    "companySize":15-50人,
+    "positionLables":['web'],
+    
+    
+    'positionName': Python开发工程师,
+    "workYear":1-3年,
+    'link':https://www.lagou.com/jobs/4617022.html,
+    "education":本科,
+    "companyFullName":北京知多星科技有限公司,
+    "companySize":15-50人,
+    "positionLables":['MySQL', '后端'],
+    
+    
+    'positionName': Python后端工程师（应届生）,
+    "workYear":1年以下,
+    'link':https://www.lagou.com/jobs/4731712.html,
+    "education":硕士,
+    "companyFullName":北京我最在行信息技术有限公司,
+    "companySize":50-150人,
+    "positionLables":['php', 'web'],
+    
+    
